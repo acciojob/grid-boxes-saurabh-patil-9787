@@ -9,8 +9,9 @@ body{
 #grid{
 	/* width:400px; */
 	display:grid;
-	grid-template-columns:repeat(10,40px);
-	grid-template-rows:repeat(10,40px);
+	grid-template-columns:repeat(5,242.5);
+	grid-template-rows:repeat(5,124px);
+	grid-gap:10px 10px;
 	
 }
 .g1{
